@@ -1,0 +1,22 @@
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\bin\Debug\DiskMonitoring DeskTop.exe.config
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\bin\Debug\DiskMonitoring DeskTop.exe
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\bin\Debug\DiskMonitoring DeskTop.pdb
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.csproj.AssemblyReference.cache
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring_DeskTop.DiskMonitoring.resources
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring_DeskTop.Properties.Resources.resources
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.csproj.GenerateResource.cache
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.csproj.CoreCompileInputs.cache
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.exe
+C:\Users\ilest\Desktop\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.pdb
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\bin\Debug\DiskMonitoring DeskTop.exe.config
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\bin\Debug\DiskMonitoring DeskTop.exe
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\bin\Debug\DiskMonitoring DeskTop.pdb
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.csproj.AssemblyReference.cache
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring_DeskTop.DiskMonitoring.resources
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring_DeskTop.Properties.Resources.resources
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.csproj.GenerateResource.cache
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.csproj.CoreCompileInputs.cache
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.exe
+C:\Users\ilest\Desktop\Disk Monitoring old\DiskMonitoringDeskTop\source\repos\DiskMonitoring DeskTop\DiskMonitoring DeskTop\obj\Debug\DiskMonitoring DeskTop.pdb
